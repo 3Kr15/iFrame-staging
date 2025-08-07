@@ -1,7 +1,7 @@
 # iFrame-staging
 Staging customer profiler iFrame
 
-link to site: 
+link to site: https://3kr15.github.io/iFrame-staging/
 
 <iframe 
   src="https://abc.pints.ai/customer-profiler-abcd" 
